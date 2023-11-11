@@ -35,5 +35,6 @@ implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'
 1. descargue la carpeta zip de este repositorio
 2. abre la carpeta con el editor de codigo
 3. corra la aplicacion
+4. *Preferiblemente use DBeaver para correr la base de datos ya que fue el gestor usado durante el proceso*
    
 
